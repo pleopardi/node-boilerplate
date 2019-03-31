@@ -1,7 +1,7 @@
 {
-  "name": "oneblockdown-backend-cooder",
+  "name": "node-boilerplate",
   "version": "1.0.0",
-  "description": "Backend of One Block Down's Shopify raffle app",
+  "description": "Starter pack for Node projects",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",
